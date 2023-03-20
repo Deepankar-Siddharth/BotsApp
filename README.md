@@ -79,7 +79,7 @@ To use this method, you will need ffmpeg, nodejs, npm installed on your device.
 To run the bot on your device manually, you can use the following commands -
 
 ```bash
-git clone https://github.com/Prince-Mendiratta/BotsApp.git
+git clone https://github.com/Deepankar-Siddharth/BotsApp.git
 cd BotsApp
 yarn
 npm start
